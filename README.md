@@ -2,7 +2,7 @@
 
 ## The project is about bike purchase in different regions and related informations. I have visualized in the form of tables as well as charts. 
 
-### I have got this dataset from Kaggle, it consists of information like ID, Marital Status, Gender, Income,Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, Age category, Purchased Bike.I have cleaned the dataset and created different pivot tables in the excel & also I have created different pivot charts for the pivot tables. So that we can easily able to understand the data in a better manner. 
+### I have got this dataset from Kaggle, it consists of information like ID, Marital Status, Gender, Income,Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, Age category, Purchased Bike. I have cleaned the dataset and created different pivot tables in the excel & also I have created different pivot charts for the pivot tables. So that we can easily able to understand the data in a better manner. 
  
 ### I have inserted slicer in it for better understanding in the charts, So the option that we are selecting will be reflected in the charts. 
 
